@@ -4,7 +4,6 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/warelineTechnologies?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/warelineTechnologies?style=social)
-![GitHub issues](https://img.shields.io/github/issues/warelineTechnologies?style=flat-square)
 
 ## About Us
 
