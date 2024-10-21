@@ -1,6 +1,6 @@
 # 🚀 Welcome to Wareline Technologies
 
-![Wareline Technologies Logo](https://your-logo-url.com/logo.png)
+![Wareline Technologies Logo](https://media.licdn.com/dms/image/v2/D4E0BAQEB0KTj9IYnNA/company-logo_200_200/company-logo_200_200/0/1715762058867/warelinetech_logo?e=2147483647&v=beta&t=bsoCcDm34XjhTfYmm3YPq08UqTlNb4Hjome6f4PzRto)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/warelineTechnologies?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/warelineTechnologies?style=social)
@@ -8,7 +8,7 @@
 
 ## About Us
 
-**Wareline Technologies** is a cutting-edge technology organization dedicated to delivering innovative software solutions that drive business success. Our expertise spans across various domains including web development, mobile applications, cloud computing, and artificial intelligence. We are committed to excellence, collaboration, and continuous improvement to meet the evolving needs of our clients.
+**Wareline Technologies** is a cutting-edge technology organization dedicated to delivering innovative software solutions that drive business success. Our expertise spans across various domains including web development, mobile applications, cloud and artificial intelligence. We are committed to excellence, collaboration, and continuous improvement to meet the evolving needs of our clients.
 
 ## 🌟 Our Mission
 
@@ -18,24 +18,8 @@ To empower businesses with state-of-the-art technology solutions that enhance ef
 
 - **Custom Software Development:** Tailored applications that meet your unique business requirements.
 - **Web & Mobile Development:** Creating responsive and intuitive web and mobile applications.
-- **Cloud Solutions:** Leveraging cloud technologies to ensure scalability and reliability.
 - **AI & Machine Learning:** Implementing intelligent systems to automate and optimize processes.
 - **UI/UX Design:** Designing user-centric interfaces that provide seamless experiences.
-
-## 📈 Our Projects
-
-Here are some of our standout projects:
-
-### [Project Alpha](https://github.com/warelineTechnologies/project-alpha)
-A comprehensive platform for managing enterprise resources with real-time analytics and reporting.
-
-### [Project Beta](https://github.com/warelineTechnologies/project-beta)
-A mobile application that enhances customer engagement through personalized experiences.
-
-### [Project Gamma](https://github.com/warelineTechnologies/project-gamma)
-An AI-driven tool for automating workflows and increasing operational efficiency.
-
-> **Check out all our projects [here](https://github.com/warelineTechnologies?tab=repositories).**
 
 ## 🛠️ Technologies We Use
 
@@ -55,17 +39,17 @@ An AI-driven tool for automating workflows and increasing operational efficiency
 
 Stay connected and collaborate with us:
 
-- [Website](https://warelinetechnologies.com)
-- [LinkedIn](https://linkedin.com/company/warelineTechnologies)
-- [Twitter](https://twitter.com/warelineTech)
-- [Slack](https://warelinetechnologies.slack.com)
+- [Website](https://warelinetech.com/)
+- [LinkedIn](https://www.linkedin.com/company/warelinetech)
+- [Instagram](https://www.instagram.com/warelinetech)
+- [Whatsapp](https://api.whatsapp.com/send/?phone=919090989877&text&type=phone_number&app_absent=0)
 
 ## 📫 Get in Touch
 
 Have questions or want to work with us? Reach out!
 
-- **Email:** [contact@warelinetechnologies.com](mailto:contact@warelinetechnologies.com)
-- **Phone:** +1 (123) 456-7890
+- **Email:** [info@warelinetech.com](mailto:info@warelinetech.com)
+- **Phone:** +91 9090989870
 
 ---
 
